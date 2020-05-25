@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb097742-69c2-4c59-b67a-295017c704b5" name="Default Changelist" comment="" />
+    <list default="true" id="cb097742-69c2-4c59-b67a-295017c704b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/KotlinPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/delegate/DelegateTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/delegate/pattern/ActImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/delegate/pattern/DynamicDelegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/delegate/pattern/DynamicProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/delegate/pattern/IFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/delegate/pattern/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenericsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/AlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/ProducerCustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/InitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/InitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Practice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/Activity$doSomething$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/Activity$doSomething$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/Activity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/Activity0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/Activity0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/BaseCoroutineTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/BaseCoroutineTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/CancelAndTimeOutTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/CancelAndTimeOutTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ComposeTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ComposeTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest1$1$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest2$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest2$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest2$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest2$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest4$1$request$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest4$1$request$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest4$1$request$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest4$1$request$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest5$1$request$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest5$1$request$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest5$1$request$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest5$1$request$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest5$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest6$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest6$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest7$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest7$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest8$1$job$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest8$1$job$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest8$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$contextTest8$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest1$1$a$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest1$1$a$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest1$1$b$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest1$1$b$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest2$1$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest2$1$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest2$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest2$1$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest3$1$v1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest3$1$v1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest3$1$v2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest3$1$v2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt$debugTest3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/ContextAndDiapatcherTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/coroutine/StreamTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/coroutine/StreamTestKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/InitTest$Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/InitTest$Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/InitTest$Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/InitTest$Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/InitTest$Tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/InitTest$Tmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/InitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/InitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/JavaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/JavaTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +66,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,19 +88,47 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.StreamTestKt">
+  <component name="RunManager" selected="Application.DynamicDelegate">
+    <configuration name="AlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.AlTest" />
+      <module name="KotlinPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicDelegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="delegate.pattern.DynamicDelegate" />
+      <module name="KotlinPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="delegate.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.InitTest" />
       <module name="KotlinPractice" />
@@ -54,133 +142,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CancelAndTimeOutTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ProducerCustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ProducerCustomerTest" />
       <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="coroutine.CancelAndTimeOutTestKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComposeTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="coroutine.ComposeTestKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContextAndDiapatcherTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" value="-Dkotlinx.coroutines.debug" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="coroutine.ContextAndDiapatcherTestKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="coroutine.StreamTestKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="KotlinPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="KotlinPractice" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="generics.GenericsTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.CancelAndTimeOutTestKt" />
-      <item itemvalue="Kotlin.ComposeTestKt" />
-      <item itemvalue="Kotlin.ContextAndDiapatcherTestKt" />
       <item itemvalue="Application.InitTest" />
-      <item itemvalue="Kotlin.StreamTestKt" />
+      <item itemvalue="Application.AlTest" />
+      <item itemvalue="Application.ProducerCustomerTest" />
+      <item itemvalue="Kotlin.GenericsTestKt" />
+      <item itemvalue="Application.DynamicDelegate" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.StreamTestKt" />
-        <item itemvalue="Kotlin.ContextAndDiapatcherTestKt" />
+        <item itemvalue="Application.DynamicDelegate" />
         <item itemvalue="Application.InitTest" />
-        <item itemvalue="Kotlin.ComposeTestKt" />
-        <item itemvalue="Kotlin.CancelAndTimeOutTestKt" />
+        <item itemvalue="Application.ProducerCustomerTest" />
+        <item itemvalue="Application.AlTest" />
+        <item itemvalue="Kotlin.GenericsTestKt" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -202,13 +205,24 @@
       <workItem from="1585206072726" duration="13501000" />
       <workItem from="1585552713752" duration="10447000" />
       <workItem from="1586831050471" duration="8365000" />
+      <workItem from="1587539727655" duration="1506000" />
+      <workItem from="1587555396493" duration="5141000" />
+      <workItem from="1587810292709" duration="2717000" />
+      <workItem from="1588124702109" duration="153000" />
+      <workItem from="1589251536123" duration="679000" />
+      <workItem from="1590053319408" duration="214000" />
+      <workItem from="1590053895051" duration="4196000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="560" y="-875" key="#Project_Structure" timestamp="1587609234579">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="560" y="-875" key="#Project_Structure/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587609234579" />
     <state x="424" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585646661094">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
@@ -217,38 +231,46 @@
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
     <state x="584" y="278" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1583466041144" />
-    <state width="1878" height="200" key="GridCell.Tab.0.bottom" timestamp="1587461384907">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1358" height="265" key="GridCell.Tab.0.bottom" timestamp="1590058555411">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="1878" height="200" key="GridCell.Tab.0.bottom/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587461384907" />
-    <state width="1750" height="290" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585731215108" />
-    <state width="1750" height="352" key="GridCell.Tab.0.bottom/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1585206098763" />
-    <state width="1750" height="290" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1586830903993" />
+    <state width="1878" height="389" key="GridCell.Tab.0.bottom/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611849587" />
+    <state width="1750" height="389" key="GridCell.Tab.0.bottom/0.0.1792.1120/0.-1080.1920.1080@0.0.1792.1120" timestamp="1587898251609" />
+    <state width="1750" height="200" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587544503948" />
+    <state width="1358" height="265" key="GridCell.Tab.0.bottom/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1590058555411" />
+    <state width="1750" height="200" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1587554605197" />
     <state width="1878" height="255" key="GridCell.Tab.0.bottom/0.23.1792.1024/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584586656304" />
-    <state width="1878" height="200" key="GridCell.Tab.0.center" timestamp="1587461384905">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1878" height="191" key="GridCell.Tab.0.bottom/0.23.1792.1097/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611629896" />
+    <state width="1358" height="265" key="GridCell.Tab.0.center" timestamp="1590058555410">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="1878" height="200" key="GridCell.Tab.0.center/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587461384905" />
-    <state width="1750" height="290" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585731215107" />
-    <state width="1750" height="352" key="GridCell.Tab.0.center/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1585206098762" />
-    <state width="1750" height="290" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1586830903992" />
+    <state width="1878" height="389" key="GridCell.Tab.0.center/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611849585" />
+    <state width="1750" height="389" key="GridCell.Tab.0.center/0.0.1792.1120/0.-1080.1920.1080@0.0.1792.1120" timestamp="1587898251608" />
+    <state width="1750" height="200" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587544503947" />
+    <state width="1358" height="265" key="GridCell.Tab.0.center/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1590058555410" />
+    <state width="1750" height="200" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1587554605196" />
     <state width="1878" height="255" key="GridCell.Tab.0.center/0.23.1792.1024/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584586656303" />
-    <state width="1878" height="200" key="GridCell.Tab.0.left" timestamp="1587461384904">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1878" height="191" key="GridCell.Tab.0.center/0.23.1792.1097/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611629895" />
+    <state width="1358" height="265" key="GridCell.Tab.0.left" timestamp="1590058555409">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="1878" height="200" key="GridCell.Tab.0.left/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587461384904" />
-    <state width="1750" height="290" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585731215107" />
-    <state width="1750" height="352" key="GridCell.Tab.0.left/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1585206098762" />
-    <state width="1750" height="290" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1586830903992" />
+    <state width="1878" height="389" key="GridCell.Tab.0.left/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611849584" />
+    <state width="1750" height="389" key="GridCell.Tab.0.left/0.0.1792.1120/0.-1080.1920.1080@0.0.1792.1120" timestamp="1587898251607" />
+    <state width="1750" height="200" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587544503946" />
+    <state width="1358" height="265" key="GridCell.Tab.0.left/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1590058555409" />
+    <state width="1750" height="200" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1587554605196" />
     <state width="1878" height="255" key="GridCell.Tab.0.left/0.23.1792.1024/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584586656303" />
-    <state width="1878" height="200" key="GridCell.Tab.0.right" timestamp="1587461384906">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state width="1878" height="191" key="GridCell.Tab.0.left/0.23.1792.1097/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611629891" />
+    <state width="1358" height="265" key="GridCell.Tab.0.right" timestamp="1590058555410">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="1878" height="200" key="GridCell.Tab.0.right/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587461384906" />
-    <state width="1750" height="290" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585731215108" />
-    <state width="1750" height="352" key="GridCell.Tab.0.right/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1585206098763" />
-    <state width="1750" height="290" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1586830903992" />
+    <state width="1878" height="389" key="GridCell.Tab.0.right/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611849586" />
+    <state width="1750" height="389" key="GridCell.Tab.0.right/0.0.1792.1120/0.-1080.1920.1080@0.0.1792.1120" timestamp="1587898251609" />
+    <state width="1750" height="200" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587544503947" />
+    <state width="1358" height="265" key="GridCell.Tab.0.right/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1590058555410" />
+    <state width="1750" height="200" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1587554605196" />
     <state width="1878" height="255" key="GridCell.Tab.0.right/0.23.1792.1024/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1584586656304" />
+    <state width="1878" height="191" key="GridCell.Tab.0.right/0.23.1792.1097/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611629896" />
     <state width="1878" height="188" key="GridCell.Tab.1.bottom" timestamp="1585551637745">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
@@ -269,19 +291,18 @@
     </state>
     <state width="1878" height="188" key="GridCell.Tab.1.right/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1585206967578" />
     <state width="1878" height="188" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1585551637745" />
-    <state x="448" y="-959" key="SettingsEditor" timestamp="1585646632095">
-      <screen x="0" y="-1080" width="1920" height="1080" />
+    <state x="418" y="138" key="SettingsEditor" timestamp="1589251571562">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state x="448" y="-959" key="SettingsEditor/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1585210291347" />
-    <state x="448" y="-959" key="SettingsEditor/0.23.1792.1097/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1585646632095" />
-    <state x="573" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1586831054336">
+    <state x="448" y="-959" key="SettingsEditor/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611482801" />
+    <state x="418" y="138" key="SettingsEditor/0.23.1792.1022/0.-1057.1920.1057@0.23.1792.1022" timestamp="1589251571562" />
+    <state x="448" y="-959" key="SettingsEditor/0.23.1792.1097/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1587611612768" />
+    <state x="573" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1588124703054">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="614" y="-718" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584598244311" />
     <state x="573" y="375" key="com.intellij.ide.util.TipDialog/0.0.1792.1120/0.-1080.1920.1080@0.0.1792.1120" timestamp="1585206085798" />
-    <state x="573" y="375" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586831054336" />
-    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017/0.-1057.1920.1057@0.23.1792.1017" timestamp="1579167255265" />
-    <state x="614" y="-703" key="com.intellij.ide.util.TipDialog/0.23.1792.1020/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1579427786868" />
+    <state x="573" y="375" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1588124703054" />
     <state x="573" y="366" key="com.intellij.ide.util.TipDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1583465934188" />
   </component>
 </project>

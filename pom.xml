@@ -5,11 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.whx</groupId>
-    <artifactId>Practice</artifactId>
+    <artifactId>KotlinPractice</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <kotlin.version>1.3.70</kotlin.version>
+        <java.version>1.8</java.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <dependencies>
